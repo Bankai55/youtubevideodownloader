@@ -20,4 +20,5 @@ A simple and intuitive desktop application built with Python and Tkinter for dow
 Follow these steps to get the application running on your local machine.
 
 git clone https://github.com/Bankai55/youtubevideodownloader.git
+
 cd youtube-downloader-gui
